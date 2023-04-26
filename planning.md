@@ -15,6 +15,15 @@
     - The Boiler
     - Chrome
 
+### ChronoTech
+
+- The ChronoTech facility is a relatively small building, comparable to the
+  size of an average American school. However, the rest of the facility is
+  hidden within a pocket dimension which is accessible through a gateway
+  underneath the very floorboards. This pocket dimension enables boundless
+  amounts of land for the ChronoTech facility, allowing them to perform
+  colossal experiments.
+
 ### All About Servicebots
 
 - A silent servicebot is a robot designed for professions that require very
