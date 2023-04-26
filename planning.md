@@ -7,7 +7,7 @@
 - ChronoTech has released a few robot models, namely:
     - **Cybrix**: silent servicebots manufactured from the 1980s up until the
       2000s that has since been discontinued
-    - **Flux**: military-focused robots that has been in production since the
+    - **Flux**: military-focused robots that have been in production since the
       1990s
     - **Spark**: modern, vocal servicebots in production since the year 2016
 
