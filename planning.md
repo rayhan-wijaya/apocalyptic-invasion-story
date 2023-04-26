@@ -9,3 +9,7 @@
       1990s
     - **Spark**: a modern, vocal servicebot in production since the year 2016
 
+- In addition, ChronoTech has also developed unreleased robot models:
+    - The Boiler
+    - Chrome
+
