@@ -24,6 +24,9 @@
   amounts of land for the ChronoTech facility, allowing them to perform
   colossal experiments.
     - The mainline series takes place in that pocket dimension.
+    - While the pocket dimension was impressive, it also meant that ChronoTech
+      was potentially in violation of various real estate laws, forcing them to
+      keep it a secret.
 
 ### All About Servicebots
 
