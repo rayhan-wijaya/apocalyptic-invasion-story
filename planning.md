@@ -23,6 +23,7 @@
   underneath the very floorboards. This pocket dimension enables boundless
   amounts of land for the ChronoTech facility, allowing them to perform
   colossal experiments.
+    - The mainline series takes place in that pocket dimension.
 
 ### All About Servicebots
 
