@@ -19,3 +19,9 @@
 - Silent servicebots are not equipped with voice chips to optimize their
   processing power for their work, which typically doesn't involve conversing
 
+- SC is based on Cybrix, a model originally intended for silent service work
+- SC was taken away from ChronoTech along with other robots and reprogrammed
+  for a life of crime
+- ChronoTech eventually recaptured SC and confined the robot hidden in a
+  storage facility within a pocket dimension, erasing all of its memory
+
