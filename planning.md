@@ -2,6 +2,8 @@
 
 ## Random Facts
 
+### Robot Models
+
 - ChronoTech has released a few robot models, namely:
     - **Cybrix**: a silent servicebot manufactured from the 1980s up until the
       2000s that has since been discontinued
