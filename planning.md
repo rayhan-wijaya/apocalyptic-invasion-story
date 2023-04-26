@@ -13,3 +13,9 @@
     - The Boiler
     - Chrome
 
+- A silent servicebot is a robot designed for professions that require very
+  little communication such as construction engineering, architecture, farming,
+  and more
+- Silent servicebots are not equipped with voice chips to optimize their
+  processing power for their work, which typically doesn't involve conversing
+
