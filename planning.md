@@ -12,7 +12,12 @@
     - **Spark**: modern servicebots in production since the year 2016
 
 - In addition, ChronoTech has also developed unreleased robot models:
-    - The Boiler
+    - **The Boiler**: Originally designed for heating-related tasks such as
+      boiling, cooking, and stewing, the Boiler robot now serves a much darker
+      purpose. It has been repurposed as an executioner, its combustion chamber
+      located underneath its torso used to scorch victims alive. The ChronoTech
+      artificial security is the one who issues the commands, directing the
+      Boiler with a cold and calculating precision.
     - Chrome
 
 ### ChronoTech
