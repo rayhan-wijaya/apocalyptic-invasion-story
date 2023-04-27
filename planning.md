@@ -18,7 +18,7 @@
       located underneath its torso used to scorch victims alive. The ChronoTech
       artificial security is the one who issues the commands, directing the
       Boiler with a cold and calculating precision.
-    - Chrome
+    - **Chrome**
 
 ### ChronoTech
 
