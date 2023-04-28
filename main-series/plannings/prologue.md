@@ -7,7 +7,7 @@
 - Without the ability to see or hear, the robot was left alone with her
   thoughts, pondering the nature of her existence and why she was created.
 
-- 
+- ...
 
 - The air was thick with a foul smell, accompanied by the clenching sounds of
   metal tongs.
