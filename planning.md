@@ -23,8 +23,7 @@
 ### ChronoTech
 
 - ChronoTech is a technology organisation of assembled hobbyist researchers and
-  engineers with the goal of bringing innovative inventions to life, most of
-  which are related with time-travelling.
+  engineers with the goal of bringing innovative inventions to life.
 - The ChronoTech facility is a relatively small building, comparable to the
   size of an average American school. However, the rest of the facility is
   hidden within a pocket dimension which is accessible through a gateway
