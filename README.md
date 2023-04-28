@@ -3,6 +3,8 @@
 _"The story of a lone robot in the shadows of a
 forbidding facility."_
 
+[See lore (main branch)](https://github.com/rayhan-wijaya/apocalyptic-invasion-story/tree/main/planning.md)
+
 ## Background
 
 Apocalyptic Invasion is sort of a personal project I've
