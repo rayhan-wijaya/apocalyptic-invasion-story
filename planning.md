@@ -1,5 +1,10 @@
 # Planning
 
+This file contains facts/lore that are already finalized, so there only exists
+a small quantity of information now. There are tad bits of old lore I'm not
+proud of, stored in a google doc (which was honestly a mistake in and of
+itself) 
+
 ## Random Facts
 
 ### Robot Models
