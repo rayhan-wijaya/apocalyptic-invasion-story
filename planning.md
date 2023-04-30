@@ -39,6 +39,14 @@ itself)
     - While the pocket dimension was impressive, it also meant that ChronoTech
       was potentially in violation of various real estate laws, forcing them to
       keep it a secret.
+- ChronoTech has developed a time-travelling portal in line with their original
+  goals of creating time-related technology.
+    - They initiated a demonstration of the portal for the President, who
+      brought his bodyguards along with him.
+    - During the demonstration, the portal was functioning as normal, opening a
+      gateway to a point in time inputted by the controlling researcher.
+    - However, halfway into the demonstration, the researcher attempted to
+      input a point of time far into the future.
 
 ### SC
 
