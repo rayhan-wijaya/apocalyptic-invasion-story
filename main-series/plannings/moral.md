@@ -6,7 +6,7 @@ freedom. To escape the facility.
 
 But during that process, SC antagonized her allies and everyone around her in
 the desolate facility, oftenly resorting to violence to resolve issues. SC's
-reserved personality caused her to misunderstood the intentions and feelings of
+reserved personality caused her to misunderstand the intentions and feelings of
 the people around her. Her timidity prevented her to connect with these people
 and understand them as genuine people with thoughts and feelings.
 
