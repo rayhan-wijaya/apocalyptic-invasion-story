@@ -1,4 +1,4 @@
-# Planning
+# Lore
 
 This file contains facts/lore that are already finalized, so there only exists
 a small quantity of information now. There are tad bits of old lore I'm not
@@ -7,9 +7,7 @@ itself)
 
 Also this file has spoilers, so be careful if you haven't seen the story yet.
 
-## Random Facts
-
-### Robot Models
+## Robot Models
 
 - ChronoTech has released a few robot models, namely:
     - **Cybrix**: servicebots manufactured from the 1980s up until the 2000s
@@ -27,7 +25,7 @@ Also this file has spoilers, so be careful if you haven't seen the story yet.
       Boiler with a cold and calculating precision.
     - **Chrome**
 
-### ChronoTech
+## ChronoTech
 
 - ChronoTech is a technology organisation of assembled hobbyist researchers and
   engineers with the goal of bringing innovative inventions to life.
@@ -50,7 +48,7 @@ Also this file has spoilers, so be careful if you haven't seen the story yet.
     - However, halfway into the demonstration, the researcher attempted to
       input a point of time far into the future.
 
-### SC
+## SC
 
 - SC is based on Cybrix, a model originally intended for service work
 - SC was taken away from ChronoTech along with other robots and reprogrammed
