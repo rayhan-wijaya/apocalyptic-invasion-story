@@ -1,6 +1,8 @@
 # Prologue
 
-- In a dimly lit room, a robot layed dormant on a metallic table.
+- In a dimly lit room, ...
+- In the far corner, a dormant robot was lying on a metallic table, slowly
+  succumbing to rust.
 - As the robot remained there, she was cut off from the world around her.
 - Without the ability to see or hear, the robot was left alone with her
   thoughts, pondering the nature of her existence and why she was created.
