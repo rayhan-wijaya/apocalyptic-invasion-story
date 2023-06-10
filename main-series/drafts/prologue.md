@@ -16,4 +16,6 @@
   light.
 - The robot attempted to make a sound, but was unable to produce any audible
   output.
+- As she struggled, a strange silhoutte approached her from the opposite end of
+  the room.
 
