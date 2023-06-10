@@ -1,5 +1,12 @@
 # Prologue
 
+## Plot
+
+- A robot lying on a table in a dark room.
+- A few moments later, a dark figure approaches her.
+
+## Detailed
+
 - In a dimly lit room, ...
 - In the far corner, a robot was lying dormant on a metallic table, slowly
   succumbing to rust.
