@@ -9,8 +9,8 @@
 
 - ...
 
-- The air was filled with a foul smell, accompanied by the sounds of metal
-  tongs.
+- And before she realized, The air was filled with a foul smell, accompanied by
+  the sounds of metal tongs.
 - The robot suddenly heared whispers that seemed to be coming faraway.
 - Feeling uneasy, the robot slowly opens her lens, only to be blinded by a
   shine of light.
@@ -26,8 +26,8 @@
 
 - ...
 
-- The air was thick with a foul smell, accompanied by the clenching sounds of
-  metal tongs.
+- And before she realized, the air was thick with a foul smell, accompanied by
+  the clenching sounds of metal tongs.
 - The robot suddenly sensed faint whispers that seemed to be coming faraway.
 - Feeling uneasy, the robot slowly opens her lens, only to be blinded by a
   shine of light.
