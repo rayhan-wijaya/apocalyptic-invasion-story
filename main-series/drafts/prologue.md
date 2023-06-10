@@ -1,5 +1,14 @@
 # Prologue
 
+## With Simple Grammar
+
+- In a dark room, a robot layed on a metallic table.
+- As the robot remained there, she was cut off from the world around her.
+- Without the ability to see or hear, the robot was alone with her thoughts,
+  questioning the nature of her existence and why she was created.
+
+## Detailed Version
+
 - In a dimly lit room, a robot layed dormant on a metallic table.
 - As the robot remained there, she was cut off from the world around her.
 - Without the ability to see or hear, the robot was left alone with her
