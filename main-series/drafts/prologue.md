@@ -17,7 +17,6 @@
 - The robot attempted to make a sound, but was unable to produce any audible
   output.
 
-
 ## Detailed Version
 
 - In a dimly lit room, a robot layed dormant on a metallic table.
