@@ -1,7 +1,5 @@
 # Prologue
 
-## Low-Level Version
-
 - In a dimly lit room, a robot layed dormant on a metallic table.
 - As the robot remained there, she was cut off from the world around her.
 - Without the ability to see or hear, the robot was left alone with her
