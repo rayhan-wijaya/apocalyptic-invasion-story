@@ -1,7 +1,7 @@
  Apocalyptic Invasion
 
-_"The story of a lone robot in the shadows of a
-forbidding facility."_
+"The story of a lone robot in the shadows of a
+forbidding facility."
 
 Background
 
