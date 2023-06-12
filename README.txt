@@ -1,18 +1,18 @@
-# Apocalyptic Invasion
+ Apocalyptic Invasion
 
 _"The story of a lone robot in the shadows of a
 forbidding facility."_
 
 [See lore (main branch)](https://github.com/rayhan-wijaya/apocalyptic-invasion-story/tree/main/planning.md)
 
-## Background
+Background
 
 Apocalyptic Invasion is sort of a personal project I've
 been wanting to make for a very long time. I think the
 initial concept of Apocalyptic Invasion has potential, so
 I decided to build upon the idea and make something up.
 
-## The Future of Apocalyptic Invasion
+The Future of Apocalyptic Invasion
 
 I want Apocalyptic Invasion to have a couple side stories
 in the form of miniseries. There would be more books
