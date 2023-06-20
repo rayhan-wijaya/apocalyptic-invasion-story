@@ -40,8 +40,10 @@ military-focused robots that have been in production since the
 .IP \[bu]
 .B Spark:
 modern servicebots in production since the year 2016.
+.RE
 .PP
 In addition, ChronoTech has also developed unreleased robot models:
+.RS
 .IP \[bu]
 .B "The Boiler:"
 Originally designed for heating-related tasks such as boiling, cooking, and
