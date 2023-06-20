@@ -1,7 +1,7 @@
 .TL
 Characters of Apocalyptic Invasion
 .AU
-Rayhan Wijaya
+rayhan-wijaya
 .AB
 This document will list down the different characters from the whole series.
 .AE

@@ -1,7 +1,7 @@
 .TL
 Information Regarding Apocalyptic Invasion
 .AU
-Rayhan Wijaya
+rayhan-wijaya
 .AB
 .PP
 This documents contains facts/information that are already finalized, so there
