@@ -6,8 +6,7 @@
 ## SC's Description
 
 SC is a robotic instance based on the Cybrix model. She was created with the
-intention of working on mundane jobs such as merchantry and farming, and is the
-protagonist of the mainline series.
+intention of working on mundane jobs such as merchantry and farming.
 
 ## SC's Past Life
 
