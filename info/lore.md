@@ -5,8 +5,6 @@ a small quantity of information now. There are tad bits of old lore I'm not
 proud of, stored in a google doc (which was honestly a mistake in and of
 itself) 
 
-Also this file has spoilers, so be careful if you haven't seen the story yet.
-
 ## Robot Models
 
 - ChronoTech has released a few robot models, namely:
