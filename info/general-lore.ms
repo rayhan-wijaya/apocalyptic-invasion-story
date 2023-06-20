@@ -53,6 +53,11 @@ precision.
 .RE
 .NH
 ChronoTech Service Workers
+.PP
+Robots who do not meet the standards of their model are required to volunteer
+as service workers for ChronoTech, partaking in tasks such as constructing
+extensions made to the facility. The robots below are the current workers under
+ChronoTech.
 .NH 2
 SC
 .PP
