@@ -67,3 +67,8 @@ SC is based on Cybrix, a model originally intended for service work. SC was
 taken away from ChronoTech along with other robots and reprogrammed for a life
 of crime ChronoTech eventually recaptured SC and confined the robot hidden in a
 storage facility within the pocket dimension, erasing all of its memory.
+.NH 2
+WF
+.PP
+WF is one of the robotic instances of the Flux model, originally intended for
+military use.
